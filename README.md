@@ -22,4 +22,6 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 El resultado debe ser mostrado en la pantalla.
 - Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+- Preview
+- https://emanuel-moreno.github.io/Encriptador-de-texto-Alura-Challenges-ONE/
 [![desktop.png](https://i.postimg.cc/k45XdV3k/desktop.png)](https://postimg.cc/94vjdQfp)
